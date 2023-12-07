@@ -387,13 +387,56 @@
 
 // pr4
 
-let a = 2;
-let b = 3;
-let c = 4;
-let d = 5;
-let e = 6;
-c = a / 10; 
-c = b * 1000;
-c = d / 1000;
-c = e / 100;
-console.log(c)
+// let T = +prompt("Enter one to five");
+// let L = +prompt("Enter any number: ");
+
+// let res;
+
+// switch (T) {
+//   case 1:
+//     res = L / 10;
+//     break;
+//   case 2:
+//     res = L * 1000;
+//     break;
+//   case 3:
+//     res = L;
+//   case 4:
+//     res = L / 1000;
+//     break;
+//   case 5:
+//     res = L / 100;
+//     break;
+//   default:
+//     res = "unsupported value";
+// }
+// console.log(res, "Metr");
+
+
+// pr5
+
+// let T = 6;
+// let L = 200;
+
+// let res;
+
+// switch (T) {
+//   case 1:
+//     res = L;
+//     break;
+//   case 2:
+//     res = L / 1000000;
+//     break;
+//   case 3:
+//     res = L / 1000;
+//   case 4:
+//     res = L * 1000;
+//     break;
+//   case 5:
+//     res = L * 100;
+//     break;
+//   default:
+//    res = "Unsupported value"
+// }
+// console.log(res, "Kilogram");
+
