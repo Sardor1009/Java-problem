@@ -412,7 +412,6 @@
 // }
 // console.log(res, "Metr");
 
-
 // pr5
 
 // let T = 6;
@@ -440,3 +439,49 @@
 // }
 // console.log(res, "Kilogram");
 
+// let M = 2;
+// let D = 33;
+
+// let res;
+// switch (M) {
+//   case 1:
+//     res = "January";
+//     break;
+//   case 2:
+//     res = "Febraury";
+//     break;
+//   case 3:
+//     res = "March";
+//     break;
+//   case 4:
+//     res = "April";
+//     break;
+//   case 5:
+//     res = "May";
+//     break;
+//   case 6:
+//     res = "June";
+//     break;
+//   case 7:
+//     res = "July";
+//     break;
+//   case 8:
+//     res = "August";
+//     break;
+//   case 9:
+//     res = "September";
+//     break;
+//   case 10:
+//     res = "October";
+//     break;
+//   case 11:
+//     res = "November";
+//     break;
+//   case 12:
+//     res = "December";
+//     break;
+//     default:
+//         res = "Error..."
+// }
+
+// console.log(res, D)
