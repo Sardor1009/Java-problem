@@ -387,4 +387,13 @@
 
 // pr4
 
-
+let a = 2;
+let b = 3;
+let c = 4;
+let d = 5;
+let e = 6;
+c = a / 10; 
+c = b * 1000;
+c = d / 1000;
+c = e / 100;
+console.log(c)
