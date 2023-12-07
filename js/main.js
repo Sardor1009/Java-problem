@@ -214,22 +214,115 @@
 
 // pr13
 
-let a = 12;
-let b = 15; 
-let c = 14;
+// let a = 12;
+// let b = 15;
+// let c = 14;
+
+// if (b > a & c > b){
+//     a = 2 * a
+//     b = 2 * b
+//     c = 2 * c
+// }
+// else {
+//     a = -a
+//     b = -b
+//     c = -c
+// }
+// console.log (a)
+// console.log (b)
+// console.log (c)
+
+// pr14
+
+// let a = 17;
+// let b = 15;
+// let c = 14;
+
+// if ((b > a & c > b) || ( a > b & b > c)){
+//     a = 2 * a
+//     b = 2 * b
+//     c = 2 * c
+// }
+// else {
+//     a = -a
+//     b = -b
+//     c = -c
+// }
+// console.log (a)
+// console.log (b)
+// console.log (c)
+
+// pr15
+
+// let a = 13;
+// let b = 14;
+// let c = 13;
+// let d = 13;
+
+// if ( a === b & c === b){
+//   console.log(4);
+// }
+// else if( a === b & b === d){
+//     console.log(3)
+// }
+// else if (b === c & c == d){
+//     console.log(1)
+// }
+// else {
+//     console.log(2)
+// }
+
+// pr 16
+// let x = 12;
+
+// if (x >= 2){
+//     console.log(4)
+// }
+// else if (x > 0 & x < 2){
+//     console.log(x ** 2)
+// }
+// else if(x <= 0){
+//     console.log(-x)
+// }
+
+// pr17
+
+// let a = 1200;
+
+// if (a < 100 & a % 4 ){
+//     console.log("Bu yilda 366 kun bor")
+// }
+// else if( a >= 100 & a % 200 === 0){
+//     console.log("Bu yilda 366 kun bor")
+// }
+// else {
+//     console.log("Bu yilda 365 kun  bor")
+// }
+
+// let a = +prompt(" 999 gacha bolgan son kiriting: ")
 
 
-if (b > a & c > b){
-    a = 2 * a
-    b = 2 * b
-    c = 2 * c
-}
-else {
-    a = -a
-    b = -b
-    c = -c
-}
-console.log (a)
-console.log (b)
-console.log (c)
+// if (a > 99 & a < 1000 & a % 2 === 0){
+//     console.log("uch xonali just son")
+// }
+// else if(a > 0 & a < 10 & a % 2 === 0){
+//     console.log("1 xonali juft son")
+// }
+// else if (a > 9 & a < 100 & a % 2 === 0){
+//     console.log("2 xonali juft son")
 
+// }
+// else if(a > 99 & a < 1000 & a % 2 === 1){
+//     console.log("uch xonali toq son")
+
+// }
+// else if(a > 0 & a < 10 & a % 2 === 1){
+//     console.log("1 xonali toq son")
+// }
+// else if (a > 9 & a < 100 & a % 2 === 1){
+//     console.log("2 xonali toq son")
+
+// }
+// else {
+//     console.log(" kiritilgan son 1000 dan katta")
+// }
