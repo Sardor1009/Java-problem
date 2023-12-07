@@ -485,3 +485,115 @@
 // }
 
 // console.log(res, D)
+
+// pr7
+
+// let M = 2;
+// let D = 33;
+
+// let res;
+// let d = D + 1;
+// switch (M) {
+//   case 1:
+//     res = "January";
+//     break;
+//   case 2:
+//     res = "Febraury";
+//     break;
+//   case 3:
+//     res = "March";
+//     break;
+//   case 4:
+//     res = "April";
+//     break;
+//   case 5:
+//     res = "May";
+//     break;
+//   case 6:
+//     res = "June";
+//     break;
+//   case 7:
+//     res = "July";
+//     break;
+//   case 8:
+//     res = "August";
+//     break;
+//   case 9:
+//     res = "September";
+//     break;
+//   case 10:
+//     res = "October";
+//     break;
+//   case 11:
+//     res = "November";
+//     break;
+//   case 12:
+//     res = "December";
+//     break;
+//     default:
+//         res = "Error..."
+// }
+
+// console.log(res, d)
+
+// pr8
+
+// let M = 3;
+// let N = 9;
+
+// let red;
+
+// switch (M) {
+//   case 1:
+//     red = "G'isht";
+//     break;
+//   case 2:
+//     red = "Olma";
+//     break;
+//   case 3:
+//     red = "Chillak";
+//     break;
+//   case 4:
+//     red = "Qarg'a";
+//     break;
+//   default:
+//     red = "Error...";
+// }
+
+// switch (N) {
+//   case 6:
+//     res = "Olti";
+//     break;
+//     case 7:
+//     res = "Yetti";
+//     break;
+//     case 8:
+//     res = "Sakkiz";
+//     break;
+//     case 9:
+//     res = "To'qqiz";
+//     break;
+//     case 10:
+//     res = "O'n";
+//     break;
+//     case 11:
+//     res = "Valet";
+//     break;
+//     case 12:
+//     res = "Dama";
+//     break;
+//     case 13:
+//     res = "Qirol";
+//     break;
+//     case 14:
+//     res = "Tuz";
+//     break;
+//     default:
+//         res = "Error..."
+// }
+
+// console.log(res, red)
+
+// pr10
+
+
