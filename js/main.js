@@ -596,49 +596,159 @@
 
 // pr10
 
-let A = 4;
-let B = 1;
+// let A = 4;
+// let B = 1;
 
-let res;
+// let res;
 
-switch (A) {
-  case 1:
-    res = " O'n";
-    break;
-  case 2:
-    res = "Yigirma";
-    break;
+// switch (A) {
+//   case 1:
+//     res = " O'n";
+//     break;
+//   case 2:
+//     res = "Yigirma";
+//     break;
 
-  case 3:
-    res = "O'ttiz";
-    break;
-  case 4:
-    res = "Qirq";
-    break;
-  default:
-    res = " error...";
-}
-let red;
-switch (B) {
-  case 1:
-    red = "bitta";
-    break;
-    case 1:
-    red = "Bitta";
-    break;
-    case 1:
-    red = "Bitta";
-    break;
-    case 1:
-    red = "Bitta";
-    break;
-    case 1:
-    red = "Bitta";
-    break;
-    case 1:
-    red = "Bitta";
-    break;
-    default:
-        red = " error"
-}
-console.log(res, red , "masala")
+//   case 3:
+//     res = "O'ttiz";
+//     break;
+//   case 4:
+//     res = "Qirq";
+//     break;
+//   default:
+//     res = " error...";
+// }
+// let red;
+// switch (B) {
+//   case 1:
+//     red = "bitta";
+//     break;
+//     case 1:
+//     red = "Bitta";
+//     break;
+//     case 1:
+//     red = "Bitta";
+//     break;
+//     case 1:
+//     red = "Bitta";
+//     break;
+//     case 1:
+//     red = "Bitta";
+//     break;
+//     case 1:
+//     red = "Bitta";
+//     break;
+//     default:
+//         red = " error"
+// }
+// console.log(res, red , "masala")
+
+// pr11
+
+// let abc = 999;
+// let c = abc % 10;
+// let b = ((abc - c) / 10) % 10;
+// let a = (abc - 10 * b - c) / 100;
+
+// let res;
+// switch (a) {
+//   case 1:
+//     res = "Bir yuz";
+//     break;
+//   case 2:
+//     res = "Ikki yuz";
+//     break;
+//   case 3:
+//     res = "Uch yuz";
+//     break;
+//   case 4:
+//     res = "To'rt yuz";
+//     break;
+//   case 5:
+//     res = "Besh yuz";
+//     break;
+//   case 6:
+//     res = "Olti yuz";
+//     break;
+//   case 7:
+//     res = "Yetti yuz";
+//     break;
+//   case 8:
+//     res = "Sakkiz yuz";
+//     break;
+//   case 9:
+//     res = "To'qqiz yuz";
+//     break;
+//   default:
+//     res = "Error...";
+// }
+// let ans;
+// switch (b) {
+//     case 1:
+//     ans = "O'n";
+//     break;
+//   case 2:
+//     ans = "Yigirma";
+//     break;
+//   case 3:
+//     ans = "O'ttiz";
+//     break;
+//   case 4:
+//     ans = "Qirq";
+//     break;
+//   case 5:
+//     ans = "Ellik";
+//     break;
+//   case 6:
+//     ans = "Oltmish";
+//     break;
+//   case 7:
+//     ans = "Yetmish";
+//     break;
+//   case 8:
+//     ans = "Sakson";
+//     break;
+//   case 9:
+//     ans = "To'qson";
+//     break;
+//   default:
+//     ans = "Error...";
+// }
+
+// let rep;
+// switch (c){
+//     case 1:
+//         rep = "bir";
+//         break;
+//       case 2:
+//         rep = "Ikki";
+//         break;
+//       case 3:
+//         rep = "Uch";
+//         break;
+//       case 4:
+//         rep = "To'rt";
+//         break;
+//       case 5:
+//         rep = "Besh";
+//         break;
+//       case 6:
+//         rep = "Olti";
+//         break;
+//       case 7:
+//         rep = "Yetti";
+//         break;
+//       case 8:
+//         rep = "Sakkiz";
+//         break;
+//       case 9:
+//         rep = "To'qqiz";
+//         break;
+//       default:
+//         rep = "Error...";
+// }
+
+// console.log(res, ans, rep)
+
+let Y = 1984;
+let a = 
