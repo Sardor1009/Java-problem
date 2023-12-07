@@ -301,7 +301,6 @@
 
 // let a = +prompt(" 999 gacha bolgan son kiriting: ")
 
-
 // if (a > 99 & a < 1000 & a % 2 === 0){
 //     console.log("uch xonali just son")
 // }
@@ -326,3 +325,66 @@
 // else {
 //     console.log(" kiritilgan son 1000 dan katta")
 // }
+
+// PART 2------------------------------------
+
+// let K = 4;
+// if (K === 1){
+//     console.log("juda yomon")
+// }
+// else if (K === 2){
+//     console.log("yomon")
+// }
+// else if (K === 3){
+//     console.log("qoniqarli")
+// }
+// else if (K === 4){
+//     console.log("yaxshi ")
+// }
+// else if (K === 5){
+//     console.log("a'lo")
+// }
+// else{
+//     console.log(" xato")
+// }
+
+// pr2
+
+// let a = 5;
+// if (a <= 2 || a == 12){
+//     console.log("qish")
+// }
+// else if (a > 2 & a < 6){
+//     console.log(" bahor")
+// }
+// else if (a > 5 & a < 9 ){
+//     console.log(" yoz")
+// }else if (a > 8 & a < 12){
+//     console.log("kuz")
+// }
+// else {
+//     "!2 gacha bolgan buton son kiriting"
+// }
+
+// pr3
+
+// let a = 4;
+// if (
+//   a === 1 ||
+//   a === 3 ||
+//   a === 5 ||
+//   a === 7 ||
+//   a === 8 ||
+//   a === 10 ||
+//   a === 12
+// ) {
+//   console.log("BU oy 31 kundan iborat");
+// } else if (a === 2) {
+//   console.log("Bu oy 28 yoki 29 kundan iborat");
+// } else {
+//   console.log("bu oy 30 kundan iborat");
+// }
+
+// pr4
+
+
