@@ -596,4 +596,49 @@
 
 // pr10
 
+let A = 4;
+let B = 1;
 
+let res;
+
+switch (A) {
+  case 1:
+    res = " O'n";
+    break;
+  case 2:
+    res = "Yigirma";
+    break;
+
+  case 3:
+    res = "O'ttiz";
+    break;
+  case 4:
+    res = "Qirq";
+    break;
+  default:
+    res = " error...";
+}
+let red;
+switch (B) {
+  case 1:
+    red = "bitta";
+    break;
+    case 1:
+    red = "Bitta";
+    break;
+    case 1:
+    red = "Bitta";
+    break;
+    case 1:
+    red = "Bitta";
+    break;
+    case 1:
+    red = "Bitta";
+    break;
+    case 1:
+    red = "Bitta";
+    break;
+    default:
+        red = " error"
+}
+console.log(res, red , "masala")
