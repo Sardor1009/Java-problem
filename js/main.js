@@ -750,7 +750,7 @@
 
 // console.log(res, ans, rep)
 
-let Y = 1985.5;
+let Y = +prompt("Enter a year Number");
 let D = Y - 1984;
 if (Y < 1984){
     console.log("Mininum insertable number is 1984")
