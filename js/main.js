@@ -750,5 +750,82 @@
 
 // console.log(res, ans, rep)
 
-let Y = 1984;
-let a = 
+let Y = 1985.5;
+let D = Y - 1984;
+if (Y < 1984){
+    console.log("Mininum insertable number is 1984")
+}
+else{
+    let k = D % 12;
+    let red;
+    
+    if(parseInt(D) === D){
+        switch (k) {
+            case 0:
+              red = "sichqon yili";
+              break;
+            case 1:
+              red = "sigir yili";
+              break;
+            case 2:
+              red = "yo'lbars yili";
+              break;
+            case 3:
+              red = "quyon yili";
+              break;
+            case 4:
+              red = "ajdar yili";
+              break;
+            case 5:
+              red = "ilon yili";
+              break;
+            case 6:
+              red = "ot yili";
+              break;
+            case 7:
+              red = "qo'y yili";
+              break;
+            case 8:
+              red = "maymun yili";
+              break;
+            case 9:
+              red = "tovuq yili";
+              break;
+            case 10:
+              red = "it yili";
+              break;
+            case 11:
+              red = "to'ngiz yili";
+              break;
+            default:
+              red = "Enter an integer";
+              break;
+          }
+          let res = (parseInt(D / 12)) % 5
+    
+          switch (res) {
+            case 0:
+              res = "Yashil";
+              break;
+            case 1:
+              res = "Qizil";
+              break;
+            case 2:
+              res = "Sariq";
+              break;
+            case 3:
+              res = "Oq";
+              break;
+            case 4:
+              res = "Qora";
+              break;
+            default:
+              res = "Min number 1984";
+          }
+          console.log(res, red) 
+    }
+    else {
+        console.log("Enter an integer")
+    }
+}
+
